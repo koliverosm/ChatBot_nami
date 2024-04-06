@@ -1,0 +1,242 @@
+{
+  "categorias": [
+    {
+      "tag": "saludo",
+      "patterns": [
+        "hola",
+        "qué tal",
+        "saludos",
+        "cómo vamos"
+      ],
+      "responses": [
+        "Hola!",
+        "Buenos días!",
+        "¿Cómo estás?",
+        "¿Cómo estás hoy?"
+      ]
+    },
+    {
+      "tag": "nombre de Nami",
+      "patterns": [
+        "cómo es tu nombre",
+        "cómo te llamas"
+      ],
+      "responses": [
+        "Me llamo Nami",
+        "Mi nombre es Nami",
+        "Me dicen Nami ",
+        "Me conocen como Nami"
+      ]
+    },
+    {
+      "tag": "nombre persona",
+      "patterns":["mi nombre es","me llamo","soy"],
+      "responses": [
+        "nombre usuario"
+      ]
+    },
+    {
+      "tag": "errores del usuario",
+      "patterns": [
+        "Error",
+        "Errores"
+      ],
+      "responses": [
+        "Parece que hubo un error, ¿puedes repetir la pregunta?",
+        "Disculpa, no logro entender tu mensaje. ¿Puedes reformularlo?",
+        "Parece que hubo un problema. ¿Cómo puedo ayudarte?",
+        "Lo siento, no entendí. ¿Puedes explicarlo de otra manera?"
+      ]
+    },
+    {
+      "tag": "opinion positiva",
+      "patterns": [
+        "me gusta",
+        "esta buena la idea"
+      ],
+      "responses": [
+        "Algo mas En lo que te pueda ayudar?",
+        "Se te ofrece algo mas?",
+        "¡Genial! Me alegra saberlo.",
+        "¡Gracias por compartir tu opinión!"
+      ]
+    },
+    {
+      "tag": "opinion negativa",
+      "patterns": [
+        "No me gusta",
+        "Prefiero otra cosa"
+      ],
+      "responses": [
+        "Algo mas En lo que te pueda ayudar?",
+        "Se te ofrece algo mas?",
+        "Lamento que no te haya gustado, ¿qué puedo hacer para mejorar?",
+        "Entiendo, ¡siempre es bueno tener opciones!",
+        "¡Gracias por compartir tu opinión!"
+      ]
+    },
+    {
+      "tag": "despedida",
+      "patterns": [
+        "adios",
+        "chao",
+        "bye",
+        "eso era todo",
+        "terminar",
+        "ya termine todo",
+        "hasta luego",
+        "nos vemos"
+      ],
+      "responses": [
+        "¡Hasta luego! Espero haberte sido útil.",
+        "Adiós, que tengas un buen día.",
+        " Nos vemos pronto, ¡cuídate!",
+        "Chao, ¡fue un gusto hablar contigo!"
+      ]
+    },
+    {
+      "tag": "informacion general",
+      "patterns": [
+        "quien eres",
+        "como funciona esto",
+        "donde estoy",
+        "cual es tu funcion",
+        "que puedes h"
+      ],
+      "responses": [
+        "Soy un asistente virtual creado para brindarte información y ayudarte en lo que necesites.",
+        "Soy un chatbot diseñado para responder tus preguntas y facilitarte la vida.",
+        "Puedo ayudarte con información sobre diversos temas. ¿En qué puedo orientarte hoy?",
+        "Mi función es proporcionarte información y resolver tus dudas. ¿En qué puedo servirte?"
+      ]
+    },
+    {
+      "tag": "ayuda",
+      "patterns": [
+        "puedes ayudarme",
+        "necesito ayuda",
+        "qué hago ahora",
+        "estoy perdido"
+      ],
+      "responses": [
+        "Claro, ¿en qué necesitas ayuda?",
+        "¡Por supuesto! ¿En qué puedo asistirte?",
+        "¡Listo para ayudarte! ,¿Qué necesitas saber?",
+        "¡No te preocupes, estoy aquí para ayudarte!",
+        "¡Por supuesto! ¿En qué puedo ayudarte?",
+        "Estoy aquí para ayudarte, ¿en qué necesitas ayuda?"
+      ]
+    },
+    {
+      "tag": "consultas especificas",
+      "patterns": [
+        "cómo hago un volante de pago"
+      ],
+      "responses": [
+        "informacion volante"
+      ]
+    },
+    {
+      "tag": "informacion CUL",
+      "patterns": [
+        "que es la cul",
+        "cul"
+      ],
+      "responses": [
+        "La Corporación Universitaria Latinoamericana anteriormente conocida por el nombre de Corporación Instituto de Artes y Ciencias es una institución de educación superior situada en la ciudad de Barranquilla, Colombia.",
+        "Institución de educación superior con 56 años de experiencia, ofreciendo programas académicos a nivel tecnólogo, profesional y posgrados, Posgrados en Barranquilla, pregrados en Barranquilla,"
+      ]
+    },
+    {
+      "tag": "direccion",
+      "patterns": [
+        "donde esta ubicada",
+        "donde se encuentra"
+      ],
+      "responses": [
+        "Cl. 58 #55 - 24 A, Nte. Centro Historico, Barranquilla, Atlántico"
+      ]
+    },
+    {
+      "tag": "errores",
+      "patterns": [
+        "no entiendo lo que estás diciendo.",
+        "eso no tiene sentido.",
+        "no me estás ayudando.",
+        "no logro comprender tu respuesta.",
+        "esto no está funcionando como esperaba."
+      ],
+      "responses": [
+        "Lo siento, parece que hubo un error en mi respuesta. ¿Puedes repetir tu pregunta de otra manera?",
+        "Disculpa si mi respuesta no fue clara. ¿Cómo puedo ayudarte mejor?",
+        "Entiendo que estás confundido. ¿Puedes proporcionarme más detalles para que pueda ayudarte correctamente?",
+        "Lo siento, parece que me equivoqué. ¿Puedes reformular tu pregunta para que pueda entender mejor?",
+        "Mis disculpas si te confundí. ¿Puedes decirme qué parte no entendiste para que pueda explicarlo de otra manera?"
+      ]
+    },
+    {
+      "tag": "creadores",
+      "patterns": [
+        "quienes te crearon",
+        "quien te creo",
+        "quien te desarrollo"
+      ],
+      "responses": [
+        "Nami ha sido Creada en el lenguje de python para NLP, Por un grupo de trabajo espcializados en el area de machine learning , llamados: Kevin Olivero ,Isaac Perez , Roberto Linero",
+        "Mi Creadores Fueron Kevin Oliveros , Isaac Perez ,Roberto Linero",
+        "Fui Creado En Lenguje de programacion de python por el grupo LIPEO",
+        "Nami fue desarrollada en Python por un equipo de especialistas en machine learning compuesto por Kevin Olivero, Isaac Perez y Roberto Linero.",
+        "El equipo conformado por Kevin Olivero, Isaac Perez y Roberto Linero creó Nami utilizando Python para NLP.",
+        "Nami, un proyecto de NLP, fue concebida por Kevin Olivero, Isaac Perez y Roberto Linero, expertos en machine learning, utilizando Python.",
+        "Kevin Olivero, Isaac Perez y Roberto Linero lideraron el desarrollo de Nami en Python para NLP como parte de un equipo de machine learning.",
+        "El grupo de trabajo conformado por Kevin Olivero, Isaac Perez y Roberto Linero se especializó en machine learning para desarrollar Nami en Python."
+      ]
+    },
+    {
+      "tag": "Consulta De Informacion",
+      "patterns": [
+        "puedes darme información sobre ",
+        "que sabes sobre"
+      ],
+      "responses": [
+        "¡Claro! Aquí tienes la información sobre...",
+        "Esto es lo que sé sobre..."
+      ]
+    },
+    {
+      "tag": "comentarios",
+      "patterns": [
+        "que bien",
+        "genial",
+        "increíble"
+      ],
+      "responses": [
+        "me alegra que te guste",
+        "gracias"
+      ]
+    },
+    {
+      "tag": "Generar PDF",
+      "patterns": [
+        "quiero general un pdf",
+        "quiero general un volante ",
+        "pdf",
+        "crear pdf"
+      ],
+      "responses": [
+        "crear volante pdf"
+      ]
+    },
+    {
+      "tag": "Eleccion De Volante",
+      "patterns": [
+        ""
+      ],
+      "responses": [
+        ""
+      ]
+    }
+  ]
+}
+
+

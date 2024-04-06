@@ -1,0 +1,15 @@
+# Cambios en el entorno del terminal
+
+## Extensión: ms-python.python
+
+Entorno activado para `.\modulos\Scripts\python.exe`
+
+- `APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL=1`
+- `PATH=c:\Users\Kevin Andres\.vscode\extensions\ms-python.python-2024.2.1\pythonFiles\deactivate\powershell;C:\Users\Kevin Andres\Desktop\Proyectos\Chat_Bot(Asistente Nami)\modulos\Scripts;${env:PATH}`
+- `PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL`
+- `PSMODULEPATH=C:\Users\Kevin Andres\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules`
+- `PYTHONIOENCODING=utf-8`
+- `PYTHONUNBUFFERED=1`
+- `VIRTUAL_ENV=C:\Users\Kevin Andres\Desktop\Proyectos\Chat_Bot(Asistente Nami)\modulos`
+- `VIRTUAL_ENV_PROMPT=modulos`
+- `VSCODE_L10N_BUNDLE_LOCATION=file:///c%3A/Users/Kevin%20Andres/.vscode/extensions/ms-ceintl.vscode-language-pack-es-1.87.2024031309/translations/extensions/vscode.json-language-features.i18n.json`
